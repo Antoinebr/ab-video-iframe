@@ -2,6 +2,7 @@
 
 ## usage
 
+Return an iframe of the video for YouTube & DailyMotion
 
 ``` php
 $iframe = new abVideoIframe('https://www.youtube.com/watch?v=NDY08A72RGk');
